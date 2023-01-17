@@ -19,6 +19,6 @@ My name is Cynthia and I am a formally trained computational chemist with a pass
 
 🔭 Expertise: `Computational Modeling` `Data Analysis` `Data Science` `Research` <br>
 😄 Pronouns: She/Her <br>
-⚡ Fun fact: I love swimming and was on the swim team in high school! <br>
+⚡ Fun fact: I love swimming and fiction! <br>
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/cynthiafonderson/) | [Email](mailto:cynthiafonderson@gmail.com) <br>
-✨ Portfolio: [Portfolio](https://github.com/cfonderson/Portfolio)
+✨ [My Portfolio](https://github.com/cfonderson/Portfolio)
