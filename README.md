@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Cynthia and I am a formally trained computational chemist with a passion for all things data. I believe in life-long learning and I'm open to collaborations on a wide variety of projects. 
+My name is Cynthia and I am a formally trained computational chemist with a passion for all things data. I believe in life-long learning and I'm open to collaborations on a wide variety of projects. <br>
 
-🔭 Expertise: `Computational Modeling` `Data Analysis` `Data Science` `Research`
-😄 Pronouns: She/Her
-⚡ Fun fact: I love swimming and was on the swim team in high school!
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/cynthiafonderson/) | [Email](mailto:cynthiafonderson@gmail.com)
+🔭 Expertise: `Computational Modeling` `Data Analysis` `Data Science` `Research` <br>
+😄 Pronouns: She/Her <br>
+⚡ Fun fact: I love swimming and was on the swim team in high school! <br>
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/cynthiafonderson/) | [Email](mailto:cynthiafonderson@gmail.com) <br>
