@@ -21,4 +21,4 @@ My name is Cynthia and I am a formally trained computational chemist with a pass
 😄 Pronouns: She/Her <br>
 ⚡ Fun fact: I love swimming and fiction! <br>
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/cynthiafonderson/) | [Email](mailto:cynthiafonderson@gmail.com) <br>
-✨ [My Portfolio](https://github.com/cfonderson/Portfolio)
+✨ [My Portfolio](https://cfonderson.github.io)
